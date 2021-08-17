@@ -1,5 +1,5 @@
 # ActivityResultLauncher
- 代替startActivityForResult和requestPermission
+ 基于官方api，开发的代替startActivityForResult和requestPermission，这两个方法是常用的，官方还提供了其他的api，可根据需要自行继承[BaseActivityResultLauncher]()
  
  [![](https://jitpack.io/v/op123355569/ActivityResultLauncher.svg)](https://jitpack.io/#op123355569/ActivityResultLauncher)
  
@@ -70,3 +70,5 @@
      Manifest.permission.CAMERA
  )
  ```
+ 
+具体用法Demo中有写。
