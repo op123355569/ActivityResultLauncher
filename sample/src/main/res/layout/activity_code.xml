@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_safr1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="StartActivityForResult1"
+        android:textAllCaps="false" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_safr2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="StartActivityForResult2"
+        android:textAllCaps="false" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_rp1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RequestPermission1"
+        android:textAllCaps="false" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_rp2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RequestPermission2"
+        android:textAllCaps="false" />
+
+</LinearLayout>

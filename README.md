@@ -1,0 +1,2 @@
+# ActivityResultLauncher
+ 代替startActivityForResult和requestPermission
