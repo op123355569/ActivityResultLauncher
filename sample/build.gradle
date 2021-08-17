@@ -42,5 +42,6 @@ dependencies {
 
     implementation 'androidx.lifecycle:lifecycle-common-java8:2.3.1'
 
-    implementation project(path: ':library')
+//    implementation project(path: ':library')
+    implementation 'com.github.op123355569:ActivityResultLauncher:1.0.3'
 }
