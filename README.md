@@ -1,5 +1,5 @@
 # ActivityResultLauncher
- 基于官方api，开发的代替startActivityForResult和requestPermission，这两个方法是常用的，官方还提供了其他的api，可根据需要自行继承[BaseActivityResultLauncher]()
+ 基于官方api，开发的代替startActivityForResult和requestPermission，这两个方法是常用的，官方还提供了其他的api，可根据需要自行继承[BaseActivityResultLauncher](https://github.com/op123355569/ActivityResultLauncher/blob/main/library/src/main/java/com/hg/activityresultlauncher/BaseActivityResultLauncher.kt)
  
  [![](https://jitpack.io/v/op123355569/ActivityResultLauncher.svg)](https://jitpack.io/#op123355569/ActivityResultLauncher)
  
