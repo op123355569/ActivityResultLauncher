@@ -3,7 +3,7 @@ package com.hg.activityresultlauncher
 import androidx.activity.result.ActivityResult
 
 /**
- * 界面返回结果鉴定
+ * 界面返回结果监听
  * <p>
  * Created by Hollow Goods on 2021-08-09.
  */
