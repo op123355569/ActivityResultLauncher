@@ -59,6 +59,7 @@
          Log.e("Kotlin", "ResultCode:$resultCode,name:$name,age:$age")
      }
  })
+ 
  // RequestPermission
  requestPermission1 = ProxyRequestPermission(this)
  requestPermission1.launch(
