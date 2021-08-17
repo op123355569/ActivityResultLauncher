@@ -16,7 +16,7 @@
  在工程目录的build.gradle添加如下代码：
  ```
  dependencies {
-    implementation 'com.github.op123355569:ActivityResultLauncher:1.0.3'
+    implementation 'com.github.op123355569:ActivityResultLauncher:lastVersion'
 }
  ```
  
